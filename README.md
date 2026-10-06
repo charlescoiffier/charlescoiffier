@@ -4,7 +4,7 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
 
 ## idées d’applications ##
 
-- **outils programmation architecturale 🚧**
+- **outils programmation architecturale 🚧 > [trame](https://github.com/charlescoiffier/trame)**
     
     Une application regroupant différents outils d’aide à la programmation architecturale :
     
@@ -22,7 +22,7 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
     
     ✨ Des comptes-rendus de réunions usagers pourraient permettre de proposer des ajouts et des modifications des tableaux et des rapports, de déceler des incohérences et de faire un suivi des étapes de validation et d’arbitrages.
     
-- **écriture de récits 🚧**
+- **écriture de récits 🚧 > [plume](https://github.com/charlescoiffier/plume)**
     
     Une application qui permet de rédiger des récits (romans, scénarios, etc.), d’organiser les différentes parties, de travailler sur plusieurs versions, d’organiser des personnages et des lieux, de rédiger des fiches, de gérer les exports, etc.
     
@@ -40,7 +40,7 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
     
     Une application qui distribue une page d'un journal à une personne choisie au hasard qui peut la remplir comme elle le souhaite, textes, dessins, images, photos. Quand le journal est terminé, chaque participant reçoit la version finalisée du journal.
     
-- **cadavre exquis 🚧**
+- **cadavre exquis 🚧 > [exquis](https://github.com/charlescoiffier/exquis)**
     
     Une application qui permet de créer à plusieurs un cadavre exquis dessiné ou textuel. L’application donne un thème, 4 personnes s'inscrivent, la première reçoit la première zone et quand elle a terminé, la deuxième reçoit la deuxième zone légèrement à cheval avec la première. Quand le cadavre exquis est terminé, chacun reçoit la version finale.
     
@@ -60,11 +60,11 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
     
     Une application mobile pour que les membres d’une même famille puisse afficher une image et/ou un texte à distance (via internet) sur un ink screen positionné par exemple dans une pièce du logement.
     
-- π-**piquant 👍**
+- π-**piquant 👍 > [pi-piquant](https://github.com/charlescoiffier/pi-piquant)**
     
     Une application qui réinterprète les œuvres “π-piquant” de François Morellet. Des paramètres permettent de définir un nombre de décimales du nombre π, une longueur de segment, un coefficient d'angle, un sens pour le premier angle, etc. Des options de zoom, d’export et de colorimétrie permettent d'emporter une image. La possibilité de choisir un autre élément en entrée serait intéressant (autre nombre, texte avec une conversion, image, etc.)
     
-- **linear halftone studio 🚧**
+- **linear halftone studio 🚧 > [lhs](https://github.com/charlescoiffier/linear-halftone-studio)**
     
     Une application qui permet de transformer une image en trame demi-teinte linéaire avec une série de paramètres de rendu et un système d’export.
     
