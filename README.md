@@ -4,7 +4,7 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
 
 ## idées d’applications ##
 
-- **outils programmation architecturale 🚧 > [trame](https://github.com/charlescoiffier/trame)**
+- **outils programmation architecturale 🚧 > [trame](https://github.com/charlescoiffier/trame) ​🔒​**
     
     Une application regroupant différents outils d’aide à la programmation architecturale :
     
@@ -22,7 +22,7 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
     
     ✨ Des comptes-rendus de réunions usagers pourraient permettre de proposer des ajouts et des modifications des tableaux et des rapports, de déceler des incohérences et de faire un suivi des étapes de validation et d’arbitrages.
     
-- **écriture de récits 🚧 > [plume](https://github.com/charlescoiffier/plume)**
+- **écriture de récits 🚧 > [plume](https://github.com/charlescoiffier/plume) ​🔒​**
     
     Une application qui permet de rédiger des récits (romans, scénarios, etc.), d’organiser les différentes parties, de travailler sur plusieurs versions, d’organiser des personnages et des lieux, de rédiger des fiches, de gérer les exports, etc.
     
@@ -40,7 +40,7 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
     
     Une application qui distribue une page d'un journal à une personne choisie au hasard qui peut la remplir comme elle le souhaite, textes, dessins, images, photos. Quand le journal est terminé, chaque participant reçoit la version finalisée du journal.
     
-- **cadavre exquis 🚧 > [exquis](https://github.com/charlescoiffier/exquis)**
+- **cadavre exquis 🚧 > [exquis](https://github.com/charlescoiffier/exquis) ​🔒​**
     
     Une application qui permet de créer à plusieurs un cadavre exquis dessiné ou textuel. L’application donne un thème, 4 personnes s'inscrivent, la première reçoit la première zone et quand elle a terminé, la deuxième reçoit la deuxième zone légèrement à cheval avec la première. Quand le cadavre exquis est terminé, chacun reçoit la version finale.
     
