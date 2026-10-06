@@ -28,15 +28,15 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
     
     ✨ L’IA pourrait rédiger des synthèses par chapitre, proposer des réorganisations du récit, faire des analyses syntaxiques, etc.
     
-- **prédictions**
+- **prédictions > [prophet](https://github.com/charlescoiffier/prophet)**
     
     Une application pour émettre des prédictions qui rapportent des points selon qu’elles se révèlent vraies ou fausses.
     
-- **rédaction de CCTP**
+- **rédaction de CCTP > [corpus](https://github.com/charlescoiffier/corpus) ​🔒**
     
     Une application de rédaction de CCTP avec la mise en partage d’un catalogue de chapitres. L’application se nourrit de ce catalogue et peut également le nourrir. Un système d'étiquettes permet d’apporter des infos à ces paragraphes. L’application permet de gérer l’ordre et l’imbrication des paragraphes et permet l’export en différents formats.
     
-- **1000 journals project**
+- **1000 journals project > [page by page](https://github.com/charlescoiffier/page-by-page) ​🔒**
     
     Une application qui distribue une page d'un journal à une personne choisie au hasard qui peut la remplir comme elle le souhaite, textes, dessins, images, photos. Quand le journal est terminé, chaque participant reçoit la version finalisée du journal.
     
@@ -44,19 +44,19 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
     
     Une application qui permet de créer à plusieurs un cadavre exquis dessiné ou textuel. L’application donne un thème, 4 personnes s'inscrivent, la première reçoit la première zone et quand elle a terminé, la deuxième reçoit la deuxième zone légèrement à cheval avec la première. Quand le cadavre exquis est terminé, chacun reçoit la version finale.
     
-- **jukebox participatif**
+- **jukebox participatif > [pick a track](https://github.com/charlescoiffier/pick-a-track) ​🔒**
     
     Une application mobile permettant de nourrir communautairement une playlist de musique. Des options de genres musicaux imposés, de battles ludiques pour passer devant les autres, des votes, etc. Cette application pourrait par exemple fonctionner dans un bar avec un QR code affiché.
     
-- **stop motion**
+- **stop motion > [onion](https://github.com/charlescoiffier/onion) ​🔒**
     
     Une application permettant de réaliser des animations en stop motion avec prise de vue, gestion des onion skins, de la timeline, des paramètres de prise de vue, export de l’animation.
     
-- **développement et tirage argentique**
+- **développement et tirage argentique > [grain](https://github.com/charlescoiffier/grain)**
     
     Une application qui permet d’accompagner les phases de développement et de tirage argentique. Elle permet de trouver les relations entre pellicules et chimies, de prendre des notes, de créer de nouvelles relations, d’aider aux phases de développement et de tirage en mettant en place des chronomètres sonores et/ou visuels tout en gérant la luminosité et la couleur de l'écran.
     
-- **partage d’images sur ink screen**
+- **partage d’images sur ink screen > [inkdrop](https://github.com/charlescoiffier/inkdrop)**
     
     Une application mobile pour que les membres d’une même famille puisse afficher une image et/ou un texte à distance (via internet) sur un ink screen positionné par exemple dans une pièce du logement.
     
@@ -68,10 +68,10 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
     
     Une application qui permet de transformer une image en trame demi-teinte linéaire avec une série de paramètres de rendu et un système d’export.
     
-- **linogravure**
+- **linogravure > [lino](https://github.com/charlescoiffier/lino)**
     
     Une application permettant de préparer une image en vue de sa gravure en linogravure, en gérant ses dimensions et son cadrage, en la simplifiant, en réglant les contrastes, en limitant le nombre de couleurs, en choisissant les couleurs en remplacement, en plaçant des repères, en séparant les couleurs en fichiers séparés, etc.
     
-- **slow movie**
+- **slow movie > [slow movie](https://github.com/charlescoiffier/slow-movie)**
     
     Une application permettant de gérer un ink screen et un raspberry pi pour faire défiler un film image par image, et de gérer tous les paramètres (choix du film, step, durée entre rafraîchissements, timecode de démarrage, affichage des sous-titres, options d’enchaînement, etc.), le transfert du fichier à distance, etc.
