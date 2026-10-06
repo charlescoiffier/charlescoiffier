@@ -64,14 +64,14 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
     
     Une application qui réinterprète les œuvres “π-piquant” de François Morellet. Des paramètres permettent de définir un nombre de décimales du nombre π, une longueur de segment, un coefficient d'angle, un sens pour le premier angle, etc. Des options de zoom, d’export et de colorimétrie permettent d'emporter une image. La possibilité de choisir un autre élément en entrée serait intéressant (autre nombre, texte avec une conversion, image, etc.)
     
-- **linear halftone studio 🚧 > [stria](https://github.com/charlescoiffier/stria)**
+- **linear halftone studio 👍 > [stria](https://github.com/charlescoiffier/stria)**
     
     Une application qui permet de transformer une image en trame demi-teinte linéaire avec une série de paramètres de rendu et un système d’export.
     
-- **linogravure > [lino](https://github.com/charlescoiffier/lino)**
+- **linogravure 🚧 > [lino](https://github.com/charlescoiffier/lino)**
     
     Une application permettant de préparer une image en vue de sa gravure en linogravure, en gérant ses dimensions et son cadrage, en la simplifiant, en réglant les contrastes, en limitant le nombre de couleurs, en choisissant les couleurs en remplacement, en plaçant des repères, en séparant les couleurs en fichiers séparés, etc.
     
-- **slow movie > [slow movie](https://github.com/charlescoiffier/slow-movie)**
+- **slow movie 🚧 > [slow movie](https://github.com/charlescoiffier/slow-movie)**
     
     Une application permettant de gérer un ink screen et un raspberry pi pour faire défiler un film image par image, et de gérer tous les paramètres (choix du film, step, durée entre rafraîchissements, timecode de démarrage, affichage des sous-titres, options d’enchaînement, etc.), le transfert du fichier à distance, etc.
