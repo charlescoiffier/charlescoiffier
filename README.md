@@ -28,7 +28,7 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
     
     ✨ L’IA pourrait rédiger des synthèses par chapitre, proposer des réorganisations du récit, faire des analyses syntaxiques, etc.
     
-- **prédictions ⌛​ > [prophet](https://github.com/charlescoiffier/prophet)**
+- **prédictions 🚧​ > [prophet](https://github.com/charlescoiffier/prophet)**
     
     Une application pour émettre des prédictions qui rapportent des points selon qu’elles se révèlent vraies ou fausses.
     
@@ -68,7 +68,7 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
     
     Une application qui permet de transformer une image en trame demi-teinte linéaire avec une série de paramètres de rendu et un système d’export.
     
-- **linogravure 🚧 > [lino](https://github.com/charlescoiffier/lino)**
+- **linogravure 👍 > [lino](https://github.com/charlescoiffier/lino)**
     
     Une application permettant de préparer une image en vue de sa gravure en linogravure, en gérant ses dimensions et son cadrage, en la simplifiant, en réglant les contrastes, en limitant le nombre de couleurs, en choisissant les couleurs en remplacement, en plaçant des repères, en séparant les couleurs en fichiers séparés, etc.
     
