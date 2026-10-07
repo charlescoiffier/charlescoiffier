@@ -75,3 +75,7 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
 - **slow movie 🚧 > [slow movie](https://github.com/charlescoiffier/slow-movie)**
     
     Une application permettant de gérer un ink screen et un raspberry pi pour faire défiler un film image par image, et de gérer tous les paramètres (choix du film, step, durée entre rafraîchissements, timecode de démarrage, affichage des sous-titres, options d’enchaînement, etc.), le transfert du fichier à distance, etc.
+
+- **planche contact 👍 > [planche-contact](https://github.com/charlescoiffier/planche-contact)**
+
+    Un script pour parcourir un dossier et ses sous-dossier et éditer des planches-contact pour toutes les vidéos trouvées.
