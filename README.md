@@ -48,7 +48,7 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
     
     Une application mobile permettant de nourrir communautairement une playlist de musique. Des options de genres musicaux imposés, de battles ludiques pour passer devant les autres, des votes, etc. Cette application pourrait par exemple fonctionner dans un bar avec un QR code affiché.
     
-- **stop motion ⌛ > [onion](https://github.com/charlescoiffier/onion) ​🔒**
+- **stop motion 🚧 > [onion](https://github.com/charlescoiffier/onion) ​🔒**
     
     Une application permettant de réaliser des animations en stop motion avec prise de vue, gestion des onion skins, de la timeline, des paramètres de prise de vue, export de l’animation.
     
