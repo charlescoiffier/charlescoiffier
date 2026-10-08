@@ -83,3 +83,7 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
 - **mie tools 🚧 > [mie-tools](https://github.com/charlescoiffier/mie-tools) ​🔒**
 
     Une extension Revit regroupant des outils d'aide pour la micro implantation d'équipements.
+
+- **TUI cadavre exquis 🚧 > [cadav](https://github.com/charlescoiffier/cadav)**
+
+    Une application TUI de cadavre exquis sur le terminal.
