@@ -64,7 +64,7 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
     
     Une application qui réinterprète les œuvres “π-piquant” de François Morellet. Des paramètres permettent de définir un nombre de décimales du nombre π, une longueur de segment, un coefficient d'angle, un sens pour le premier angle, etc. Des options de zoom, d’export et de colorimétrie permettent d'emporter une image. La possibilité de choisir un autre élément en entrée serait intéressant (autre nombre, texte avec une conversion, image, etc.)
     
-- **linear halftone studio 👍 > [stria](https://github.com/charlescoiffier/stria)**
+- **halftone studio 🚧 > [stria](https://github.com/charlescoiffier/stria)**
     
     Une application qui permet de transformer une image en trame demi-teinte linéaire avec une série de paramètres de rendu et un système d’export.
     
