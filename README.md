@@ -79,3 +79,7 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
 - **planche contact 👍 > [planche-contact](https://github.com/charlescoiffier/planche-contact)**
 
     Un script pour parcourir un dossier et ses sous-dossier et éditer des planches-contact pour toutes les vidéos trouvées.
+
+- **mie tools 🚧 > [mie-tools](https://github.com/charlescoiffier/mie-tools) ​🔒**
+
+    Une extension Revit regroupant des outils d'aide pour la micro implantation d'équipements.
