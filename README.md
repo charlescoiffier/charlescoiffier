@@ -43,6 +43,10 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
 - **cadavre exquis 🚧 > [exquis](https://github.com/charlescoiffier/exquis) ​🔒​**
     
     Une application qui permet de créer à plusieurs un cadavre exquis dessiné ou textuel. L’application donne un thème, 4 personnes s'inscrivent, la première reçoit la première zone et quand elle a terminé, la deuxième reçoit la deuxième zone légèrement à cheval avec la première. Quand le cadavre exquis est terminé, chacun reçoit la version finale.
+
+- **cadavre exquis sur terminal 👍 > [cadav](https://github.com/charlescoiffier/cadav)**
+
+    Une application sur terminal de cadavre exquis avec TUI.
     
 - **jukebox participatif ⌛ > [pick a track](https://github.com/charlescoiffier/pick-a-track) ​🔒**
     
@@ -76,6 +80,10 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
     
     Une application permettant de gérer un ink screen et un raspberry pi pour faire défiler un film image par image, et de gérer tous les paramètres (choix du film, step, durée entre rafraîchissements, timecode de démarrage, affichage des sous-titres, options d’enchaînement, etc.), le transfert du fichier à distance, etc.
 
+- **générateur de planches d'Ishihara 🚧 > [colorblind](https://github.com/charlescoiffier/colorblind)**
+
+    Une application permettant de générer des images sur le principe des planches d'Ishihara.
+
 - **planche contact 👍 > [planche-contact](https://github.com/charlescoiffier/planche-contact)**
 
     Un script pour parcourir un dossier et ses sous-dossier et éditer des planches-contact pour toutes les vidéos trouvées.
@@ -83,7 +91,3 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
 - **mie tools 🚧 > [mie-tools](https://github.com/charlescoiffier/mie-tools) ​🔒**
 
     Une extension Revit regroupant des outils d'aide pour la micro implantation d'équipements.
-
-- **cadavre exquis sur terminal 👍 > [cadav](https://github.com/charlescoiffier/cadav)**
-
-    Une application sur terminal de cadavre exquis avec TUI.
