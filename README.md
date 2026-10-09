@@ -27,6 +27,10 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
     Une application qui permet de rédiger des récits (romans, scénarios, etc.), d’organiser les différentes parties, de travailler sur plusieurs versions, d’organiser des personnages et des lieux, de rédiger des fiches, de gérer les exports, etc.
     
     ✨ L’IA pourrait rédiger des synthèses par chapitre, proposer des réorganisations du récit, faire des analyses syntaxiques, etc.
+
+- **visualisation données élections 🚧​ > [oripol](https://github.com/charlescoiffier/oripol)**
+
+    Une application pour visualiser les élections nationales et territoriales françaises et analyser les orientations politiques et les dynamiques.
     
 - **prédictions 🚧​ > [prophet](https://github.com/charlescoiffier/prophet)**
     
