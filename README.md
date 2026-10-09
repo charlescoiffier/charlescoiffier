@@ -95,3 +95,7 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
 - **mie tools 🚧 > [mie-tools](https://github.com/charlescoiffier/mie-tools) ​🔒**
 
     Une extension Revit regroupant des outils d'aide pour la micro implantation d'équipements.
+  
+- **gantt javascript ⌛ > [jsvagantt](https://github.com/charlescoiffier/jsgantt) ​🔒**
+
+    Un script Javascript pour créer des diagrammes de Gantt.
