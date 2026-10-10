@@ -31,7 +31,7 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
     
     ✨ L’IA pourrait rédiger des synthèses par chapitre, proposer des réorganisations du récit, faire des analyses syntaxiques, etc.
 
-- **visualisation données élections 🚧​ > [oripol](https://github.com/charlescoiffier/oripol)**
+- **visualisation données élections 👍​ > [oripol](https://github.com/charlescoiffier/oripol)**
 
     Une application pour visualiser les élections nationales et territoriales françaises et analyser les orientations politiques et les dynamiques.
     
@@ -47,7 +47,7 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
     
     Une application qui distribue une page d'un journal à une personne choisie au hasard qui peut la remplir comme elle le souhaite, textes, dessins, images, photos. Quand le journal est terminé, chaque participant reçoit la version finalisée du journal.
     
-- **cadavre exquis 🚧 > [exquis](https://github.com/charlescoiffier/exquis) ​🔒​**
+- **cadavre exquis 👍 > [exquis](https://github.com/charlescoiffier/exquis)**
     
     Une application qui permet de créer à plusieurs un cadavre exquis dessiné ou textuel. L’application donne un thème, 4 personnes s'inscrivent, la première reçoit la première zone et quand elle a terminé, la deuxième reçoit la deuxième zone légèrement à cheval avec la première. Quand le cadavre exquis est terminé, chacun reçoit la version finale.
 
@@ -87,7 +87,7 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
     
     Une application permettant de gérer un ink screen et un raspberry pi pour faire défiler un film image par image, et de gérer tous les paramètres (choix du film, step, durée entre rafraîchissements, timecode de démarrage, affichage des sous-titres, options d’enchaînement, etc.), le transfert du fichier à distance, etc.
 
-- **générateur de planches d'Ishihara 🚧 > [chromablind](https://github.com/charlescoiffier/chromablind)**
+- **générateur de planches d'Ishihara 👍 > [chromablind](https://github.com/charlescoiffier/chromablind)**
 
     Une application permettant de générer des images sur le principe des planches d'Ishihara.
 
