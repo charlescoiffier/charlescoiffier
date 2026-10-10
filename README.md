@@ -1,3 +1,6 @@
+> [!WARNING]
+> Ce projet a été vibecodé avec l’aide de l’intelligence artificielle.
+
 ## Hi there 👋
 
 I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
