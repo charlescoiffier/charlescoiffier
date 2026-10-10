@@ -84,7 +84,7 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
     
     Une application permettant de gérer un ink screen et un raspberry pi pour faire défiler un film image par image, et de gérer tous les paramètres (choix du film, step, durée entre rafraîchissements, timecode de démarrage, affichage des sous-titres, options d’enchaînement, etc.), le transfert du fichier à distance, etc.
 
-- **générateur de planches d'Ishihara 🚧 > [colorblind](https://github.com/charlescoiffier/colorblind)**
+- **générateur de planches d'Ishihara 🚧 > [chromablind](https://github.com/charlescoiffier/chromablind)**
 
     Une application permettant de générer des images sur le principe des planches d'Ishihara.
 
