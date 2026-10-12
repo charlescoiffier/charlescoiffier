@@ -88,6 +88,10 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
 
     Une application permettant de générer des images sur le principe des planches d'Ishihara.
 
+- **tagger de vidéos 👍 > [videos-tagger](https://github.com/charlescoiffier/videos-tagger)**
+
+    Un outils permettant de facilement apporter des tags à un ensemble de vidéos.
+
 - **planche contact 👍 > [planche-contact](https://github.com/charlescoiffier/planche-contact)**
 
     Un script pour parcourir un dossier et ses sous-dossier et éditer des planches-contact pour toutes les vidéos trouvées.
