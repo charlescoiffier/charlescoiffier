@@ -88,7 +88,7 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
 
     Une application permettant de générer des images sur le principe des planches d'Ishihara.
 
-- **tagger de vidéos 🚧 > [videos-tagger](https://github.com/charlescoiffier/videos-tagger)**
+- **tagger de vidéos 👍 > [videos-tagger](https://github.com/charlescoiffier/videos-tagger)**
 
     Un outils permettant de facilement apporter des tags à un ensemble de vidéos.
 
@@ -104,6 +104,6 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
 
     Une application permettant d'exporter les vues axonométriques de la micro implantation pour les partager dans une page web avec les données des équipements associées.
 
-- **gantt javascript ⌛ > [jsvagantt](https://github.com/charlescoiffier/jsgantt) ​🔒**
+- **gantt javascript ⌛ > [jsgantt](https://github.com/charlescoiffier/jsgantt) ​🔒**
 
     Un script Javascript pour créer des diagrammes de Gantt.
