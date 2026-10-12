@@ -4,7 +4,7 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
 
 ## idées d’applications ##
 
-- **📐 outils programmation architecturale 🚧 > [trame](https://github.com/charlescoiffier/trame) ​🔒​**
+- **outils programmation architecturale 🚧 > [trame](https://github.com/charlescoiffier/trame) ​🔒​**
     
     Une application regroupant différents outils d’aide à la programmation architecturale :
     
@@ -22,17 +22,17 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
     
     ✨ Des comptes-rendus de réunions usagers pourraient permettre de proposer des ajouts et des modifications des tableaux et des rapports, de déceler des incohérences et de faire un suivi des étapes de validation et d’arbitrages.
     
-- **🖋️ écriture de récits 🚧 > [plume](https://github.com/charlescoiffier/plume) ​🔒​**
+- **écriture de récits 🚧 > [plume](https://github.com/charlescoiffier/plume) ​🔒​**
     
     Une application qui permet de rédiger des récits (romans, scénarios, etc.), d’organiser les différentes parties, de travailler sur plusieurs versions, d’organiser des personnages et des lieux, de rédiger des fiches, de gérer les exports, etc.
     
     ✨ L’IA pourrait rédiger des synthèses par chapitre, proposer des réorganisations du récit, faire des analyses syntaxiques, etc.
 
-- **🗳️ visualisation données élections 👍​ > [oripol](https://github.com/charlescoiffier/oripol)**
+- **visualisation données élections 👍​ > [oripol](https://github.com/charlescoiffier/oripol)**
 
     Une application pour visualiser les élections nationales et territoriales françaises et analyser les orientations politiques et les dynamiques.
     
-- **🧙‍♂️ prédictions 🚧​ > [prophet](https://github.com/charlescoiffier/prophet)**
+- **prédictions 🚧​ > [prophet](https://github.com/charlescoiffier/prophet)**
     
     Une application pour émettre des prédictions qui rapportent des points selon qu’elles se révèlent vraies ou fausses.
     
@@ -40,7 +40,7 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
     
     Une application de rédaction de CCTP avec la mise en partage d’un catalogue de chapitres. L’application se nourrit de ce catalogue et peut également le nourrir. Un système d'étiquettes permet d’apporter des infos à ces paragraphes. L’application permet de gérer l’ordre et l’imbrication des paragraphes et permet l’export en différents formats.
     
-- **📓 journal participatif ⌛ > [page by page](https://github.com/charlescoiffier/page-by-page) ​🔒**
+- **journal participatif ⌛ > [page by page](https://github.com/charlescoiffier/page-by-page) ​🔒**
     
     Une application qui distribue une page d'un journal à une personne choisie au hasard qui peut la remplir comme elle le souhaite, textes, dessins, images, photos. Quand le journal est terminé, chaque participant reçoit la version finalisée du journal.
     
@@ -52,7 +52,7 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
 
     Une application sur terminal de cadavre exquis avec TUI.
     
-- **🎼 jukebox participatif ⌛ > [pick a track](https://github.com/charlescoiffier/pick-a-track) ​🔒**
+- **jukebox participatif ⌛ > [pick a track](https://github.com/charlescoiffier/pick-a-track) ​🔒**
     
     Une application mobile permettant de nourrir communautairement une playlist de musique. Des options de genres musicaux imposés, de battles ludiques pour passer devant les autres, des votes, etc. Cette application pourrait par exemple fonctionner dans un bar avec un QR code affiché.
     
@@ -95,7 +95,11 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
 - **mie tools 🚧 > [mie-tools](https://github.com/charlescoiffier/mie-tools) ​🔒**
 
     Une extension Revit regroupant des outils d'aide pour la micro implantation d'équipements.
-  
+
+- **mie partage 🚧 > [mie-share](https://github.com/charlescoiffier/mie-share) ​🔒**
+
+    Une application permettant d'exporter les vues axonométriques de la micro implantation pour les partager dans une page web avec les données des équipements associées.
+
 - **gantt javascript ⌛ > [jsvagantt](https://github.com/charlescoiffier/jsgantt) ​🔒**
 
     Un script Javascript pour créer des diagrammes de Gantt.
