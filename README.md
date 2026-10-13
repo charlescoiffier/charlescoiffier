@@ -32,7 +32,7 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
 
     Une application pour visualiser les élections nationales et territoriales françaises et analyser les orientations politiques et les dynamiques.
     
-- **prédictions 🚧​ > [prophet](https://github.com/charlescoiffier/prophet)**
+- **prédictions ⌛ > [prophet](https://github.com/charlescoiffier/prophet)**
     
     Une application pour émettre des prédictions qui rapportent des points selon qu’elles se révèlent vraies ou fausses.
     
@@ -72,7 +72,7 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
     
     Une application qui réinterprète les œuvres “π-piquant” de François Morellet. Des paramètres permettent de définir un nombre de décimales du nombre π, une longueur de segment, un coefficient d'angle, un sens pour le premier angle, etc. Des options de zoom, d’export et de colorimétrie permettent d'emporter une image. La possibilité de choisir un autre élément en entrée serait intéressant (autre nombre, texte avec une conversion, image, etc.)
     
-- **halftone studio 🚧 > [stria](https://github.com/charlescoiffier/stria)**
+- **halftone studio 👍 > [stria](https://github.com/charlescoiffier/stria)**
     
     Une application qui permet de transformer une image en trame demi-teinte linéaire avec une série de paramètres de rendu et un système d’export.
     
@@ -104,6 +104,6 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
 
     Une application permettant d'exporter les vues axonométriques de la micro implantation pour les partager dans une page web avec les données des équipements associées.
 
-- **gantt javascript ⌛ > [jsgantt](https://github.com/charlescoiffier/jsgantt) ​🔒**
+- **gantt javascript 🚧 > [jsgantt](https://github.com/charlescoiffier/jsgantt) ​🔒**
 
     Un script Javascript pour créer des diagrammes de Gantt.
