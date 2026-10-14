@@ -34,13 +34,11 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
 
     Une application permettant de réaliser des animations en stop motion avec prise de vue, gestion des onion skins, de la timeline, des paramètres de prise de vue, export de l’animation.
 
-- **🔥🔥 slow movie 🚧 > [slow movie](https://github.com/charlescoiffier/slow-movie)**
+- **🔥🔥 slow movie + inkdrop 🚧 > [slowmovie-inkdrop](https://github.com/charlescoiffier/slowmovie-inkdrop)**
 
-    Une application permettant de gérer un ink screen et un raspberry pi pour faire défiler un film image par image, et de gérer tous les paramètres (choix du film, step, durée entre rafraîchissements, timecode de démarrage, affichage des sous-titres, options d’enchaînement, etc.), le transfert du fichier à distance, etc.
-
-- **🔥🔥 partage d’images sur ink screen ⌛ > [inkdrop](https://github.com/charlescoiffier/inkdrop)**
-
-    Une application mobile pour que les membres d’une même famille puisse afficher une image et/ou un texte à distance (via internet) sur un ink screen positionné par exemple dans une pièce du logement.
+    Une double application :
+    - Une application permettant de gérer un ink screen et un raspberry pi pour faire défiler un film image par image, et de gérer tous les paramètres (choix du film, step, durée entre rafraîchissements, timecode de démarrage, affichage des sous-titres, options d’enchaînement, etc.), le transfert du fichier à distance, etc.
+    - Une application web pour que les membres d’une même famille puisse afficher une image à distance (via internet) sur un ink screen positionné par exemple dans une pièce du logement.
 
 - **π-piquant 👍 > [pi-piquant](https://github.com/charlescoiffier/pi-piquant)**
 
