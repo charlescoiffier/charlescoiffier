@@ -30,6 +30,10 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
 
     Une application permettant d'exporter les vues axonométriques de la micro implantation pour les partager dans une page web avec les données des équipements associées.
 
+- **🔥🔥 dalígotchi 🚧 > [daligotchi](https://github.com/charlescoiffier/daligotchi) ​🔒**
+
+    Un jeu développé avec mes enfants sur la gestion d'animaux de compagnie :)
+
 - **🔥🔥 stop motion 🚧 > [onion](https://github.com/charlescoiffier/onion) ​🔒**
 
     Une application permettant de réaliser des animations en stop motion avec prise de vue, gestion des onion skins, de la timeline, des paramètres de prise de vue, export de l’animation.
