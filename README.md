@@ -38,7 +38,7 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
 
     Une application permettant de réaliser des animations en stop motion avec prise de vue, gestion des onion skins, de la timeline, des paramètres de prise de vue, export de l’animation.
 
-- **🔥🔥 slow movie + inkdrop 🚧 > [slowmovie-inkdrop](https://github.com/charlescoiffier/slowmovie-inkdrop)**
+- **🔥🔥 slow movie + inkdrop 👍 > [slowmovie-inkdrop](https://github.com/charlescoiffier/slowmovie-inkdrop)**
 
     Une double application :
     - Une application permettant de gérer un ink screen et un raspberry pi pour faire défiler un film image par image, et de gérer tous les paramètres (choix du film, step, durée entre rafraîchissements, timecode de démarrage, affichage des sous-titres, options d’enchaînement, etc.), le transfert du fichier à distance, etc.
