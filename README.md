@@ -38,7 +38,11 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
 
     Une application permettant de réaliser des animations en stop motion avec prise de vue, gestion des onion skins, de la timeline, des paramètres de prise de vue, export de l’animation.
 
-- **🔥🔥 slow movie + inkdrop 👍 > [slowmovie-inkdrop](https://github.com/charlescoiffier/slowmovie-inkdrop)**
+- **🔥🔥 prédictions 🚧  > [prophet](https://github.com/charlescoiffier/prophet)**
+
+    Une application pour lister les promesses et prédictions et révéler ensuite si elles sont au final vraies ou fausses.
+
+- **slow movie + inkdrop 👍 > [slowmovie-inkdrop](https://github.com/charlescoiffier/slowmovie-inkdrop)**
 
     Une double application :
     - Une application permettant de gérer un ink screen et un raspberry pi pour faire défiler un film image par image, et de gérer tous les paramètres (choix du film, step, durée entre rafraîchissements, timecode de démarrage, affichage des sous-titres, options d’enchaînement, etc.), le transfert du fichier à distance, etc.
@@ -89,10 +93,6 @@ I’m **Charles Coiffier**, and I’m discovering **vibe coding**.
 - **planche contact 👍 > [planche-contact](https://github.com/charlescoiffier/planche-contact)**
 
     Un script pour parcourir un dossier et ses sous-dossier et éditer des planches-contact pour toutes les vidéos trouvées.
-
-- **prédictions ⌛ > [prophet](https://github.com/charlescoiffier/prophet)**
-
-    Une application pour émettre des prédictions qui rapportent des points selon qu’elles se révèlent vraies ou fausses.
 
 - **rédaction de CCTP ⌛ > [corpus](https://github.com/charlescoiffier/corpus) ​🔒**
 
